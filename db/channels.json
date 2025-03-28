@@ -1,0 +1,52 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "Movies (90s)",
+      "isActive": true,
+      "currentMedia": "1743119657718"
+    },
+    {
+      "id": 2,
+      "name": "Channel 2",
+      "isActive": false,
+      "currentMedia": null
+    },
+    {
+      "id": 3,
+      "name": "Channel 3",
+      "isActive": false,
+      "currentMedia": null
+    },
+    {
+      "id": 4,
+      "name": "Channel 4",
+      "isActive": false,
+      "currentMedia": null
+    },
+    {
+      "id": 5,
+      "name": "Channel 5",
+      "isActive": false,
+      "currentMedia": null
+    },
+    {
+      "id": 6,
+      "name": "Channel 6",
+      "isActive": false,
+      "currentMedia": null
+    },
+    {
+      "id": 7,
+      "name": "Channel 7",
+      "isActive": false,
+      "currentMedia": null
+    },
+    {
+      "id": 8,
+      "name": "Channel 8",
+      "isActive": false,
+      "currentMedia": null
+    }
+  ]
+}

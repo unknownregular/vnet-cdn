@@ -1,0 +1,20 @@
+{
+  "media": [
+    {
+      "id": "1743119657718",
+      "title": "Commercial",
+      "description": "",
+      "fileName": "1743119657581.mp4",
+      "originalPath": "/mnt/c/Users/Martin/WebstormProjects/vnet-CDN/uploads/1743119657581.mp4",
+      "streamPath": "/mnt/c/Users/Martin/WebstormProjects/vnet-CDN/streams/1743119657718/playlist.m3u8",
+      "streamUrl": "/streams/1743119657718/playlist.m3u8",
+      "thumbnailUrl": "/streams/1743119657718/thumbnail.jpg",
+      "uploadDate": "2025-03-27T23:54:25.822Z",
+      "metadata": {
+        "year": "",
+        "genre": "",
+        "duration": 0
+      }
+    }
+  ]
+}
